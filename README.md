@@ -1,5 +1,5 @@
 <h1 align="center">Hi developers my self, Mohammad Zayed</h1>
-<h3 align="center">Your sentence is mostly clear, but there is a small grammatical improvement: "A full-stack developer, now I am working in MERN."</h3>
+<h3 align="center">"I am full-stack developer, now I am working in MERN."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayed17&label=Profile%20views&color=0e75b6&style=flat" alt="zayed17" /> </p>
 
