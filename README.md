@@ -1,11 +1,10 @@
 <h1 align="center">Hi developers my self, Mohammad Zayed</h1>
-<h3 align="center">"I am full-stack developer, now I am working in MERN."</h3>
+<h3 align="center">"I am full-stack developer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayed17&label=Profile%20views&color=0e75b6&style=flat" alt="zayed17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zayed17" alt="zayed17" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **mzayed9745@gmail.com**
 
