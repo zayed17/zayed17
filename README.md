@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Full-Stack Development**
+- 🔭 I’m currently working as a **Full-Stack Developer**
 - 📫 How to reach me: **mzayed9745@gmail.com**
 
 ---
